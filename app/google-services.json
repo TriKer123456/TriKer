@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "512476198488",
+    "firebase_url": "https://trikerapp-2337f.firebaseio.com",
+    "project_id": "trikerapp-2337f",
+    "storage_bucket": "trikerapp-2337f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512476198488:android:5a707726db963f19",
+        "android_client_info": {
+          "package_name": "com.example.theon_ph.triker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512476198488-b6r1d7rp9src9see3t7a2u5r383a04uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.theon_ph.triker",
+            "certificate_hash": "cac6e214306f74e65f0b9bc93eda85fa4c7e7e1c"
+          }
+        },
+        {
+          "client_id": "512476198488-tdv2ea1bd9r3kr0pt78jugbp3j4td4bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbNJ3yE3Oadz_vOVYQcShhzgLuGwwbMVM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512476198488-tdv2ea1bd9r3kr0pt78jugbp3j4td4bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
